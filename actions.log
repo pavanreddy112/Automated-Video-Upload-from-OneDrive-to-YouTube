@@ -1,0 +1,23 @@
+[2024-12-27 18:58:15] Folder Check: Checking folder: Documents
+[2024-12-27 18:58:17] Folder Check: Checking folder: Pictures
+[2024-12-27 18:58:18] Folder Check: Checking folder: Videos
+[2024-12-27 18:58:19] Found Video: Found video file: big_buck_bunny_720p_1mb.mp4
+[2024-12-27 18:58:22] Download: File "downloads\big_buck_bunny_720p_1mb.mp4" downloaded successfully
+[2024-12-27 18:58:22] Found Video: Found video file: sample-3.avi
+[2024-12-27 18:58:29] Download: File "downloads\sample-3.avi" downloaded successfully
+[2024-12-27 18:58:29] Upload Start: Uploading video: big_buck_bunny_720p_1mb.mp4
+[2024-12-27 18:58:34] Upload: Video uploaded successfully: a-qqvRctMgM
+[2024-12-27 18:58:34] Upload Start: Uploading video: sample-3.avi
+[2024-12-27 18:58:50] Upload: Video uploaded successfully: 1o2d6dBFwpo
+[2024-12-27 18:58:50] Cleanup: Downloads folder cleaned up successfully.
+[2024-12-27 19:16:26] Folder Check: Checking folder: Documents
+[2024-12-27 19:16:27] Folder Check: Checking folder: Pictures
+[2024-12-27 19:16:29] Folder Check: Checking folder: Videos
+[2024-12-27 19:16:31] Found Video: Found video file: big_buck_bunny_720p_1mb.mp4
+[2024-12-27 19:16:34] Download: File "downloads\big_buck_bunny_720p_1mb.mp4" downloaded successfully
+[2024-12-27 19:16:34] Found Video: Found video file: sample-3.avi
+[2024-12-27 19:16:42] Download: File "downloads\sample-3.avi" downloaded successfully
+[2024-12-27 19:16:42] Upload Start: Uploading video: big_buck_bunny_720p_1mb.mp4
+[2024-12-27 19:16:47] Upload: Video uploaded successfully: fY_OMwFNBCM
+[2024-12-27 19:16:47] Upload Start: Uploading video: sample-3.avi
+[2024-12-27 19:16:48] Error: Error: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">

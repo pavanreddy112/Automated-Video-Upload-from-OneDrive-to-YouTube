@@ -1,0 +1,11 @@
+# Ignore environment file
+.env
+
+
+# Ignore downloads folder
+downloads/
+
+# Ignore client_secret.json file
+client_secret.json
+youtube_token.json
+onedrive_token.json
