@@ -99,8 +99,9 @@ Install the required Python dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+----
 
-Ensure the requirements.txt file includes the following libraries:
+### ** Ensure the requirements.txt file includes the following libraries:
 msal
 httpx
 google-auth
